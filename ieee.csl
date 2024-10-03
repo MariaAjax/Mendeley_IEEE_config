@@ -300,7 +300,7 @@
     <sort>
       <key variable="citation-number"/>
     </sort>
-    <layout delimiter=", " range-delimiter="-">
+    <layout delimiter=", ">
       <group prefix="[" suffix="]" delimiter=", ">
         <text variable="citation-number"/>
         <text macro="citation-locator"/>
